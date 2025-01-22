@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+pytorch/wandb/
+pytorch/__pycache__/
