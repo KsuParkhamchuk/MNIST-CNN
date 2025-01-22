@@ -182,7 +182,7 @@ Experiments:
 
 https://api.wandb.ai/links/k-parkhamchuk-kseniya-parkhamchuk/5h5bcgbz
 
-##Inference
+## Inference
 
 - load model and put it into eval mode
 - image preprocessing
